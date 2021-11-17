@@ -19,14 +19,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "No Step, No Mile"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
+site_build_date = "2021-11-17T21:41+08:00"
+author = "Vivicat"
+email = "2462884519@qq.com"
 author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+description = "My Conquest is the Sea of Stars."
+key_words = ['Maverick', 'Vivicat', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "逃跑计划",
+        "url": "https://open.spotify.com/track/7mP4bBFQgt6B3sJfqkIzt2",
+        "brief": "夜空中最亮的星"
     }
 ]
 nav = [
@@ -66,7 +66,7 @@ social_links = [
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/Vicky128",
         "icon": "gi gi-github"
     },
     {
