@@ -11,7 +11,7 @@ tags:
   - 博客
   - Maverick
   - GitHub
-excerpt: Hello World!
+excerpt: false
 ---
 
 我的目标是星辰大海
