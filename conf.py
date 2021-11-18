@@ -30,11 +30,6 @@ key_words = ['Maverick', 'Vivicat', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
         "name": "逃跑计划",
         "url": "https://open.spotify.com/track/7mP4bBFQgt6B3sJfqkIzt2",
         "brief": "夜空中最亮的星"
