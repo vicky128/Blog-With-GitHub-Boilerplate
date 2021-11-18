@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的第一篇文章
+title: 千里之行始于足下
 slug: my-first-awesome-post
 date: 2021-11-18 20:34
 status: publish
@@ -14,6 +14,6 @@ tags:
 excerpt: Hello World!
 ---
 
-这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
+我的目标是星辰大海
 
 ![I Hate People](./images/1.jpg)
