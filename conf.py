@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "No Step, No Mile"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${/}cat.png"
 site_build_date = "2021-11-17T21:41+08:00"
 author = "Vivicat"
 email = "2462884519@qq.com"
